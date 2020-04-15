@@ -7,4 +7,5 @@
 https://bludit.appspot.com/
 
 Please note:
-This configuration only for tesing and learning with Google Cloud Environment and not for production.
+- This configuration only for tesing and learning with Google Cloud Environment and not for production.
+- Actually I don't know what I'm doing just edit here and there base from many sources just too keep me busy during the lockdown. 😅
